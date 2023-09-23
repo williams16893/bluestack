@@ -1,0 +1,1 @@
+!function(e,t,a,n,s){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var o=t.getElementsByTagName(a)[0],g=t.createElement(a);g.async=!0,g.src="https://www.googletagmanager.com/gtm.js?id=GTM-W4Z4SG",o.parentNode.insertBefore(g,o),console.groupCollapsed("bs")}(window,document,"script","dataLayer");
